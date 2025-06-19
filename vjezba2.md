@@ -13,7 +13,7 @@ Ovaj projekat prikazuje kompletan tok obrade podataka: od učitavanja i čišće
 ## 📁 Struktura projekta
 
 ```
-etl_project/
+AI_project/
 ├── data/                          # Ulazni CSV fajl
 ├── etl/                           # ETL moduli (extract, transform, load)
 │   ├── extract/
