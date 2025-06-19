@@ -53,7 +53,7 @@ U ovom Jupyter notebook-u vrši se **Exploratory Data Analysis (EDA)** – proce
 #### 1. Učitavanje podataka
 ```python
 import pandas as pd
-df = pd.read_csv("../data/students_performance.csv")
+df = pd.read_sql(sql, con,....)
 ```
 
 #### 2. Osnovne statistike i pregled
